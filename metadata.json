@@ -1,0 +1,6 @@
+{
+  "name": "Teacher OS",
+  "description": "Your classroom. Your students. Your assistant. Complete modern management and AI assistant platform for educators and tutors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
